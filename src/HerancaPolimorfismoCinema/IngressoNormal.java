@@ -1,4 +1,4 @@
-package cinema;
+package HerancaPolimorfismoCinema;
 
 public class IngressoNormal extends Ingresso {
     public IngressoNormal(String nomeFilme, String dubladoLegendado) {

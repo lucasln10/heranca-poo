@@ -1,4 +1,4 @@
-package cinema;
+package HerancaPolimorfismoCinema;
 
 public class Ingresso {
     protected String nomeFilme;

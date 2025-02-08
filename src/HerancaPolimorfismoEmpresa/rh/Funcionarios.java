@@ -1,4 +1,4 @@
-package empresa.rh;
+package HerancaPolimorfismoEmpresa.rh;
 
 import java.util.Scanner;
 

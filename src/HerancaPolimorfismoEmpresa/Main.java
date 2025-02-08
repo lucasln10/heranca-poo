@@ -1,8 +1,8 @@
-package empresa;
+package HerancaPolimorfismoEmpresa;
 
-import empresa.rh.Atendente;
-import empresa.rh.Gerente;
-import empresa.rh.Vendedor;
+import HerancaPolimorfismoEmpresa.rh.Atendente;
+import HerancaPolimorfismoEmpresa.rh.Gerente;
+import HerancaPolimorfismoEmpresa.rh.Vendedor;
 import java.util.List;
 
 public class Main {
